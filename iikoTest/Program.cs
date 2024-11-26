@@ -2,7 +2,6 @@ using iikoTest.Services.Interfaces;
 using iikoTest.Services.Repositories;
 using iikoTest.Services.Services;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 

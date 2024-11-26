@@ -1,12 +1,5 @@
 ﻿using iikoTest.Services.Interfaces;
 using iikoTest.Services.Models;
-using iikoTest.Services.Repositories;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace iikoTest.Services.Services
 {

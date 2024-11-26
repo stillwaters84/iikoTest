@@ -1,6 +1,5 @@
 ﻿using iikoTest.Services.Interfaces;
 using iikoTest.Services.Models;
-using iikoTest.Services.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace iikoTest.Controllers
